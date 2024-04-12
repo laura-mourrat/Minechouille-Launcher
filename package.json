@@ -33,7 +33,7 @@
         "electron": "^29.1.6",
         "electron-builder": "^24.6.4",
         "javascript-obfuscator": "^4.1.0",
-        "jimp": "^0.22.10",
+        "jimp": "^0.3.11",
         "nodemon": "^3.0.1",
         "png2icons": "^2.0.1"
     },
