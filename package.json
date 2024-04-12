@@ -37,7 +37,7 @@
         "nodemon": "^3.0.1",
         "png2icons": "^2.0.1"
     },
-    "repository": {
+    "repository": { 
         "type": "git",
         "url": "git+https://github.com/laura-mourrat/Minechouille-Launcher.git"
     }
