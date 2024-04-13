@@ -223,9 +223,9 @@ class Settings {
 
         resolutionReset.addEventListener("click", async () => {
             let configClient = await this.db.readData('configClient')
-            configClient.game_config.screen_size = { width: '854', height: '480' };
-            width.value = '854';
-            height.value = '480';
+            configClient.game_config.screen_size = { width: '1600', height: '1080' };
+            width.value = '1600';
+            height.value = '1080';
             await this.db.updateData('configClient', configClient);
         })
     }

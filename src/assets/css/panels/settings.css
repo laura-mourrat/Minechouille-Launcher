@@ -43,7 +43,7 @@
 }
 
 .active-settings-BTN {
-    background: var(--element-color);
+    background: #98FF98;
 }
 
 .container-settings {
@@ -197,7 +197,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #ff2c2c;
+    color: #98FF98;
     cursor: pointer;
 }
 
@@ -301,7 +301,7 @@
 
 .java-path-btn {
     padding: 0.3rem 1rem;
-    background: var(--element-color);
+    background: #98FF98;
     border-radius: 15px;
     margin: 0 1rem;
     cursor: pointer;
@@ -338,7 +338,7 @@
 
 .size-btn {
     padding: 0.3rem 1rem;
-    background: var(--element-color);
+    background: #98FF98;
     border-radius: 15px;
     margin: 0 1rem;
     cursor: pointer;
@@ -363,7 +363,7 @@
 
 .max-files-btn {
     padding: 0.3rem 1rem;
-    background: var(--element-color);
+    background: #98FF98;
     border-radius: 15px;
     margin: 0 1rem;
     cursor: pointer;

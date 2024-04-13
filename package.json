@@ -9,7 +9,7 @@
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "https://minchouille.com/launcherMinChouille/files",
+    "url": "https://minchouille.com/launcherMinChouille",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
@@ -33,11 +33,11 @@
         "electron": "^29.1.6",
         "electron-builder": "^24.6.4",
         "javascript-obfuscator": "^4.1.0",
-        "jimp": "^0.3.11",
+        "jimp": "^0.22.12",
         "nodemon": "^3.0.1",
         "png2icons": "^2.0.1"
     },
-    "repository": { 
+    "repository": {
         "type": "git",
         "url": "git+https://github.com/laura-mourrat/Minechouille-Launcher.git"
     }
